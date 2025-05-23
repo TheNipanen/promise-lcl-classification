@@ -1,0 +1,690 @@
+{
+  "A: B: C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A: B: C:  a:a b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:ab b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:a b:a": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:b b:a": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A: B: C:  a:ab b:a": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:a b:b": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A: B: C:  a:ab b:b": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A: B: C:  a:ab b:ab": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:a B: C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a:b b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a: b:b": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a:b b:b": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a: b:ab": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:a b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B: C:  a:b b:ab": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B: C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 3
+  },
+  "A:ab B: C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B: C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 3
+  },
+  "A:ab B: C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:ab B: C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B: C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:a B:a C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a:b b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a: b:b": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a:b b:b": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a: b:ab": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:a b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:a B:a C:  a:b b:ab": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:a B:a C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:b B:a C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:b B:a C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 12
+  },
+  "A:b B:a C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:b B:a C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:b B:a C:  a:b b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:b B:a C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:b B:a C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 12
+  },
+  "A:ab B:a C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 12
+  },
+  "A:ab B:a C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 12
+  },
+  "A:ab B:a C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 12
+  },
+  "A:ab B:a C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a: b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:b b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a: b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:a b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:b b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:a C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:ab C:  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 3
+  },
+  "A:ab B:ab C:  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 3
+  },
+  "A:ab B:ab C:  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:ab B:ab C:  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:  a:ab b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:a B:a C:a  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:a b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:ab b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:a b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a:b b:a": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:ab b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a: b:b": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:a b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a:b b:b": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:ab b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a: b:ab": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:a b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a C:a  a:b b:ab": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:a C:a  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:b B:a C:a  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:b B:a C:a  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:b B:a C:a  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:b B:a C:a  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:b b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a: b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:a b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:b b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:ab b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a: b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:a b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:b b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:b B:a C:a  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:a b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:ab b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:a b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:ab b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a: b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:a b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:b b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:ab b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a: b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:a b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:b b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:a C:a  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:b C:a  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:b C:a  a:a b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:ab b:": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:a b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 6
+  },
+  "A:ab B:b C:a  a:ab b:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:a b:b": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 6
+  },
+  "A:ab B:b C:a  a:ab b:b": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 12
+  },
+  "A:ab B:b C:a  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:a b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:ab b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a: b:a": {
+    "classification": "NeverSolvable",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:a b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:ab b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a: b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:a b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:b b:b": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:ab b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a: b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:a b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:b b:ab": {
+    "classification": "SometimesSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:a  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 6
+  },
+  "A:ab B:ab C:ab  a: b:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:ab B:ab C:ab  a:a b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:b b:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:ab b:": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:a b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:b b:a": {
+    "classification": "SometimesSolvableImpossible",
+    "count": 1
+  },
+  "A:ab B:ab C:ab  a:ab b:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:a b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 1
+  },
+  "A:ab B:ab C:ab  a:ab b:b": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 2
+  },
+  "A:ab B:ab C:ab  a:ab b:ab": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 1
+  }
+}

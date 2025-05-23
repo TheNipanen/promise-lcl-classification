@@ -1,0 +1,26 @@
+{
+  "A: B:  a:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A: B:  a:a": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:a B:  a:": {
+    "classification": "NeverSolvable",
+    "count": 2
+  },
+  "A:a B:  a:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 2
+  },
+  "A:a B:a  a:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:a B:a  a:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 1
+  }
+}

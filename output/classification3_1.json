@@ -1,0 +1,34 @@
+{
+  "A: B: C:  a:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A: B: C:  a:a": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:a B: C:  a:": {
+    "classification": "NeverSolvable",
+    "count": 3
+  },
+  "A:a B: C:  a:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:a B:a C:  a:": {
+    "classification": "NeverSolvable",
+    "count": 3
+  },
+  "A:a B:a C:  a:a": {
+    "classification": "SometimesSolvableConstant",
+    "count": 3
+  },
+  "A:a B:a C:a  a:": {
+    "classification": "NeverSolvable",
+    "count": 1
+  },
+  "A:a B:a C:a  a:a": {
+    "classification": "AlwaysSolvableConstant",
+    "count": 1
+  }
+}

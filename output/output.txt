@@ -1,0 +1,111 @@
+Classifying 1,1-problems:
+  Classified 4 / 4 of 1,1-problems:
+    NeverSolvable                 : 3
+    AlwaysSolvableConstant        : 1
+  Of those, 4 / 4 were unique:
+    NeverSolvable                 : 3
+    AlwaysSolvableConstant        : 1
+Classifying 1,2-problems:
+  Classified 64 / 64 of 1,2-problems:
+    NeverSolvable                 : 35
+    SometimesSolvableImpossible   : 1
+    AlwaysSolvableConstant        : 28
+  Of those, 36 / 36 were unique:
+    NeverSolvable                 : 20
+    SometimesSolvableImpossible   : 1
+    AlwaysSolvableConstant        : 15
+Classifying 1,3-problems:
+  Classified 4096 / 4096 of 1,3-problems:
+    NeverSolvable                 : 1593
+    SometimesSolvableImpossible   : 122
+    AlwaysSolvableImpossible      : 13
+    AlwaysSolvableConstant        : 2368
+  Of those, 752 / 752 were unique:
+    NeverSolvable                 : 298
+    SometimesSolvableImpossible   : 27
+    AlwaysSolvableImpossible      : 3
+    AlwaysSolvableConstant        : 424
+Classifying 1,4-problems:
+  Classified 1048576 / 1048576 of 1,4-problems:
+    NeverSolvable                 : 283679
+    SometimesSolvableImpossible   : 39176
+    AlwaysSolvableImpossible      : 8921
+    AlwaysSolvableConstant        : 716800
+  Of those, 45960 / 45960 were unique:
+    NeverSolvable                 : 12587
+    SometimesSolvableImpossible   : 1820
+    AlwaysSolvableImpossible      : 407
+    AlwaysSolvableConstant        : 31146
+Classifying 2,1-problems:
+  Classified 8 / 8 of 2,1-problems:
+    NeverSolvable                 : 5
+    SometimesSolvableConstant     : 2
+    AlwaysSolvableConstant        : 1
+  Of those, 6 / 6 were unique:
+    NeverSolvable                 : 4
+    SometimesSolvableConstant     : 1
+    AlwaysSolvableConstant        : 1
+Classifying 2,2-problems:
+  Classified 256 / 256 of 2,2-problems:
+    NeverSolvable                 : 91
+    SometimesSolvableImpossible   : 7
+    SometimesSolvableConstant     : 96
+    AlwaysSolvableConstant        : 62
+  Of those, 88 / 88 were unique:
+    NeverSolvable                 : 35
+    SometimesSolvableImpossible   : 3
+    SometimesSolvableConstant     : 26
+    AlwaysSolvableConstant        : 24
+Classifying 2,3-problems:
+  Classified 32768 / 32768 of 2,3-problems:
+    NeverSolvable                 : 6083
+    SometimesSolvableImpossible   : 1988
+    SometimesSolvableConstant     : 13130
+    AlwaysSolvableImpossible      : 19
+    AlwaysSolvableConstant        : 11548
+  Of those, 3272 / 3272 were unique:
+    NeverSolvable                 : 696
+    SometimesSolvableImpossible   : 202
+    SometimesSolvableConstant     : 1150
+    AlwaysSolvableImpossible      : 4
+    AlwaysSolvableConstant        : 1220
+Classifying 3,1-problems:
+  Classified 16 / 16 of 3,1-problems:
+    NeverSolvable                 : 9
+    SometimesSolvableConstant     : 6
+    AlwaysSolvableConstant        : 1
+  Of those, 8 / 8 were unique:
+    NeverSolvable                 : 5
+    SometimesSolvableConstant     : 2
+    AlwaysSolvableConstant        : 1
+Classifying 3,2-problems:
+  Classified 1024 / 1024 of 3,2-problems:
+    NeverSolvable                 : 275
+    SometimesSolvableImpossible   : 55
+    SometimesSolvableConstant     : 558
+    AlwaysSolvableConstant        : 136
+  Of those, 172 / 172 were unique:
+    NeverSolvable                 : 56
+    SometimesSolvableImpossible   : 9
+    SometimesSolvableConstant     : 74
+    AlwaysSolvableConstant        : 33
+Classifying 4,1-problems:
+  Classified 32 / 32 of 4,1-problems:
+    NeverSolvable                 : 17
+    SometimesSolvableConstant     : 14
+    AlwaysSolvableConstant        : 1
+  Of those, 10 / 10 were unique:
+    NeverSolvable                 : 6
+    SometimesSolvableConstant     : 3
+    AlwaysSolvableConstant        : 1
+Classifying 4,2-problems:
+  Classified 4096 / 4096 of 4,2-problems:
+    NeverSolvable                 : 931
+    SometimesSolvableImpossible   : 355
+    SometimesSolvableConstant     : 2508
+    AlwaysSolvableConstant        : 302
+  Of those, 298 / 298 were unique:
+    NeverSolvable                 : 85
+    SometimesSolvableImpossible   : 20
+    SometimesSolvableConstant     : 150
+    AlwaysSolvableConstant        : 43
